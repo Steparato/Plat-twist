@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+canvas {
+  display: block;
+}
+#joystick-container {
+  position: absolute;
+  bottom: 10%;
+  left: 10%;
+  width: 150px;
+  height: 150px;
+}
